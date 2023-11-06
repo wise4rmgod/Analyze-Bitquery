@@ -1,2 +1,2 @@
 # Analyze-Bitquery
- This is 
+ This is a simple project that queries Ethereum blockchain
